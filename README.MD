@@ -64,7 +64,7 @@ sudo cp dht11.conf /etc/rpimonitor/template/
 sudo service rpimonitor restart
 ```
 
-4. Open your browser and go to http://<raspberrypi>:8888 — you should see a new "Bedroom" section with temperature and humidity readings.
+4. Open your browser and go to http://{raspberrypi_ip}:8888 - you should see a new "Bedroom" section with temperature and humidity readings.
 
 ## Русский
 
@@ -130,4 +130,4 @@ sudo cp dht11.conf /etc/rpimonitor/template/
 sudo service rpimonitor restart
 ```
 
-4. Откройте браузер и перейдите на http://<raspberrypi>:8888 — вы увидите новый раздел "Bedroom" с показателями температуры и влажности.
+4. Откройте браузер и перейдите на http://{raspberrypi_ip}:8888 - вы увидите новый раздел "Bedroom" с показателями температуры и влажности.
